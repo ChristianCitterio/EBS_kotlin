@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="WSL - Ubuntu" type="wsl" uuid="848bf183-493f-4177-86c4-a467d424ce1b">
+        <config>
+          <option name="distributionMsId" value="Ubuntu" />
+          <option name="projectRootOnTarget" value="{exitCode=0, timeout=false, cancelled=false, stdout=/tmp/tmp.3geRHlKEGe&#10;, stderr=}/EBS_kotlin" />
+        </config>
+        <ContributedStateBase type="GradleRuntime">
+          <config>
+            <option name="homePath" value="/home/christian-citterio/.gradle" />
+          </config>
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>
