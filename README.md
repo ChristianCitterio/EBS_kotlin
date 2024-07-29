@@ -13,4 +13,5 @@
 :heavy_multiplication_x: 5.0 Aplikacja obsłuży dodatkowo jedną z platform: Slack, Messenfer, Webex, Skype, Discrod
 
 code: [src](https://github.com/ChristianCitterio/EBS_kotlin/tree/main/src/main/kotlin)
+
 video: [video](https://www.youtube.com/watch?v=5HwcFYiU868)
