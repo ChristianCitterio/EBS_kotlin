@@ -25,5 +25,5 @@ kotlin {
 }
 
 application {
-    mainClass.set("org.example.Bot")
+    mainClass.set("org.example.Main")
 }
